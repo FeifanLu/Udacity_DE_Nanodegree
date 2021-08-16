@@ -1,5 +1,9 @@
 # Udacity_DE_Nanodegree
 
-Data Engineering Nanodegree Repository
+Projects for [Data Engineering Nanodegree by Udacity.com](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
+
+
+
+
 
 
